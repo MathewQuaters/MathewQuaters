@@ -1,5 +1,5 @@
-**Hi there, I am Mathew!**
+Mathew's here!
 
-I am working on a project named "[Remona Blossom](https://github.com/MathewQuaters/Remona-Blossom)" as an *unusual* hobby. (never done any project like this before)
+I'm a hobbyist developer, a technician, and a cat.
 
-Also, where did Butter go?
+It should've worked, right?
